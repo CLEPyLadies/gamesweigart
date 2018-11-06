@@ -12,6 +12,8 @@ In groups, we will:
 
 * We will check our work with [the online diff tool](http://inventwithpython.com/invent4thed/diff/) once the game is working again.
 
+## Notes on the source code
+
 Both of these games come from Al Sweigart.
 
 A deep dive on guess.py is available [on his website](http://inventwithpython.com/invent4thed/chapter3.html).
