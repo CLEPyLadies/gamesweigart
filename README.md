@@ -20,4 +20,4 @@ A deep dive on guess.py is available [on his website](http://inventwithpython.co
 
 A deep dive on hangman2.py is available on his website, as well. We suggest starting with [the deep dive on hangman.py first](http://inventwithpython.com/invent4thed/chapter8.html).
 
-The [entire book that these resources came from](https://nostarch.com/inventwithpython) is available in print (for a reasonable price) or online (for free). Al is great!
+The [entire book that these resources came from](https://nostarch.com/inventwithpython) is available in print (for a reasonable price) or online (for free). Al is great! He makes amazing resources available for free to the community & is super supportive. You can [support him here](http://inventwithpython.com/#donate) if you choose!
